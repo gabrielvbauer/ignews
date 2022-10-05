@@ -6,7 +6,7 @@ export const stripe = new Stripe(
     apiVersion: '2022-08-01',
     appInfo: {
       name: 'ignews',
-      version: '0.1.0',
+      version: '1.0.0',
     }
   }
 );
